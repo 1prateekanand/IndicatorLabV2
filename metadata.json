@@ -1,0 +1,5 @@
+{
+  "name": "Indicator Lab",
+  "description": "Code-first quantitative trading research platform with custom Python Indicator Studio, Strategy Studio, autonomous discovery agents, optimization, and backtesting.",
+  "requestFramePermissions": []
+}
